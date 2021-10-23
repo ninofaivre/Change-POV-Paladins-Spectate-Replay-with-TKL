@@ -1,0 +1,1 @@
+copy /y "./DefaultInput.ini" "C:\Program Files (x86)\Steam\steamapps\common\Paladins\ChaosGame\Config\"
