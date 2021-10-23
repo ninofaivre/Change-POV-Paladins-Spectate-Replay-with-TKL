@@ -37,5 +37,5 @@ Cliquez sur "Code" puis "Download ZIP".
 ### Etape deux :
 Décompressez le fichier.
 
-###
+### Etape trois :
 Lancez ReplaceInplutFile.bat en double-cliquant dessus.
