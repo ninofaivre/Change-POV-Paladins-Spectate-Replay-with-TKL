@@ -1,5 +1,17 @@
 # Change-POV-Paladins-Spectate-with-TKL
 
+## Disclaimer :
+
+[EN]
+
+If your system language is different than french or english it should works but some error messages may be displayed.
+Except for the above case if an error message about a directory is displayed you may have changed the installation directory for Steam or Epic Games so you will need to locate the DefaultInput.ini file and replace it by my custom one by yourself. I advise you to go to use the search utility at the root of your disk to locate the file to replace.
+
+[FR]
+
+Si le language de votre système est différent de français ou anglais ça devrait marcher mais des messages d'erreur pourraient être affichés.
+Mis à part le cas ci-dessus si un message d'erreur à propos d'un répertoire est affiché vous avez peut-être changé le dossier d'installation par défaut de Steam ou Epic Games donc vous allez devoir chercher l'emplacement du fichier DefaultInput.ini et le remplacer par mon fichier d'input modifié par vous-même. Je vous conseille d'utiliser l'utilitaire de recherche à la racine du disque dur pour localiser le fichier à remplacer.
+
 ## Description :
 
 [EN (sorry for my bad english)]
